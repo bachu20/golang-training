@@ -1,11 +1,11 @@
-package main
+package training
 
 import (
 	"fmt"
 	"time"
 )
 
-func main() {
+func training() {
 	fmt.Println("==== Starting Go Training! ====")
 	// Conditionals()
 	// Loops()
